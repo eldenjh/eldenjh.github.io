@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://eldenjh.github.io/sitemap.xml
+Sitemap: https://eldenjh.github.io/kidwatch-site/sitemap.xml
+Sitemap: https://eldenjh.github.io/saysprout-site/sitemap.xml
+Sitemap: https://eldenjh.github.io/kerjatok/sitemap.xml
